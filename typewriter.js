@@ -1,4 +1,4 @@
-const sentence = "hello there from home";
+const sentence = "hello there from home \n";
 
 let delay = 0;
 for (const char of sentence) {
